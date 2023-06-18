@@ -1,0 +1,227 @@
+body, html{
+    position: relative;
+    margin: auto;
+    height: 100%;
+}
+.bg-image{   
+
+    background-image: url('../html/imagens/FUNDO.jpg');
+  
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+  
+    height: 670px;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.insert{
+    position: absolute;
+    left: 380px;
+    top: 0px;
+    margin: auto;
+    color: green;
+}
+
+.texttitle1{
+    position: absolute;
+    font-size: 25px;
+    font-style: italic;
+    top: 52px;
+    left: 190px;
+    color: rgb(255, 255, 255);
+}
+.texttitle2{
+    position: absolute;
+    font-size: 25px;
+    font-style: italic;
+    top: 310px;
+    left: 880px;
+    color: rgb(255, 255, 255);
+}
+.texttitle3{
+    position: absolute;
+    font-size: 25px;
+    font-style: italic;
+    top: 480px;
+    left: 225px;
+    color: rgb(255, 255, 255);
+}
+
+.textbox1{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 100px;
+    left: 50px;
+    color: whitesmoke;
+}
+.textbox1_1{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 120px;
+    left: 50px;
+    color: whitesmoke;
+}
+
+.textbox1_2{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 140px;
+    left: 50px;
+    color: whitesmoke;
+}
+
+.textbox1_3{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 160px;
+    left: 50px;
+    color: whitesmoke;
+}
+.textbox1_4{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 180px;
+    left: 50px;
+    color: whitesmoke;
+}
+.textbox1_5{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 200px;
+    left: 50px;
+    color: whitesmoke;
+}
+
+.boxregras1{
+    top: 80px;
+    left: 40px;
+    position: absolute;
+    background-color: transparent;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    height: 155px;
+    width: 540px;
+    color: white;
+    background-color: rgb(0, 89, 255);
+}
+
+.boxregras2{
+    top: 340px;
+    left: 650px;
+    position: absolute;
+    background-color: transparent;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    height: 110px;
+    width: 550px;
+    color: white;
+    background-color: rgb(0, 89, 255);
+}
+
+.textbox2{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 370px;
+    left: 670px;
+    color: white;
+}
+.textbox2_1{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 390px;
+    left: 670px;
+    color: white;
+}
+
+.textbox2_2{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 410px;
+    left: 670px;
+    color: white;
+}
+
+.textbox2_3{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 430px;
+    left: 670px;
+    color: white;
+}
+
+.boxregras3{
+    top: 508px;
+    left: 30px;
+    position: absolute;
+    background-color: transparent;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    height: 130px;
+    width: 550px;
+    color: white;
+    background-color: rgb(0, 89, 255);
+}
+
+.textbox3{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 520px;
+    left: 50px;
+    color: white;
+}
+.textbox3_1{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 550px;
+    left: 50px;
+    color: white;
+}
+
+.textbox3_2{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 580px;
+    left: 50px;
+    color: white;
+}
+
+.textbox3_3{
+    position: absolute;
+    font-size: 15px;
+    font-style: italic;
+    top: 610px;
+    left: 50px;
+    color: white;
+}
+
+.macaco{
+    position: absolute;
+    left: 700px;
+    top: 60px;
+}
+.banana{
+    position: absolute;
+    left: 150px;
+    top: 270px;
+}
+.armas{
+    position: absolute;
+    left: 900px;
+    top: 460px;
+}
